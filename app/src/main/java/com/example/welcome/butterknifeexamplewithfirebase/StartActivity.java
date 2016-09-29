@@ -25,6 +25,6 @@ public class StartActivity extends AppCompatActivity {
     }
     @OnClick(R.id.btnShow)
     public void buttonJob() {
-        shwTxt.setText("ButterKnife button");
+        shwTxt.setText("ButterKnife button  joined later");
     }
 }
